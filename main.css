@@ -1,7 +1,6 @@
 /*this is a comment*/
 #header {
     color:aqua;
- css-box-model
     background-color: blueviolet;
     border-style: dotted;
     border-color: chartreuse;
@@ -10,10 +9,10 @@
     margin:left;
     text-decoration: darkblue;
     text-align: center;
-    padding:55mm;
- 
+    padding:55;
 }
 .about h1{
+    max-width: 50%;
 
     color:rgb(10, 22, 9);
     display: inline;
@@ -32,4 +31,6 @@ h3{
     display: none ;
 }
 
- 
+ #nav {
+     color:red;
+ }
