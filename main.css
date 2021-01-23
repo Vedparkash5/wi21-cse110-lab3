@@ -6,14 +6,22 @@
     border-color: chartreuse;
     border-width: 10ex;
     border-radius: 70%;
+    margin:left;
+
 
 }
 .about h1{
+
     color:rgb(10, 22, 9);
 }
 * {
     color:rgb(26, 114, 208)
-}
+    padding:left;
+ }
 h3{
+    margin-top: 120%;
+    margin: auto;
+    padding-top: 3 fr;
+
     color:hsl(0,100%,50%)
 }
