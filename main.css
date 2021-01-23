@@ -1,4 +1,32 @@
 /*this is a comment*/
 #header {
     color:aqua;
+ css-box-model
+    background-color: blueviolet;
+    border-style: dotted;
+    border-color: chartreuse;
+    border-width: 10ex;
+    border-radius: 70%;
+    margin:left;
+    text-decoration: darkblue;
+    text-align: center;
+    padding:55mm;
+
 }
+.about h1{
+
+    color:rgb(10, 22, 9);
+}
+* {
+    color:rgb(26, 114, 208)
+  }
+h3{
+    margin-top: 120%;
+    margin: auto;
+    padding-top: 3 fr;
+    height:55em;
+    width: 66px;
+    color:hsl(0,100%,50%)
+}
+
+ 
