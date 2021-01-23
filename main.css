@@ -1,0 +1,51 @@
+/*this is a comment*/
+#header {
+    color:aqua;
+    background-color: blueviolet;
+    border-style: dotted;
+    border-color: chartreuse;
+    border-width: 10ex;
+    border-radius: 70%;
+    margin:left;
+    text-decoration: darkblue;
+    text-align: center;
+    padding:55;
+}
+.about h1{
+    max-width: 50%;
+
+    color:rgb(10, 22, 9);
+    display: inline;
+    
+}
+* {
+    color:rgb(26, 114, 208);
+  }
+h3{
+    margin-top: 120%;
+    margin: auto;
+    padding-top: 3 fr;
+    height:55em;
+    width: 66px;
+    color:hsl(0,100%,50%);
+    display: none ;
+    position:relative;
+}
+
+ #nav:hover {
+     color:red;
+     position:sticky;
+ }
+a:active{
+    background-color: yellow;
+
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+      max-width: 50em;
+    }
+  }
+#nav.about{
+    background-color: gold;
+}
