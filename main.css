@@ -9,7 +9,7 @@
     margin:left;
     text-decoration: darkblue;
     text-align: center;
-    
+    padding:55mm;
 
 }
 .about h1{
@@ -18,8 +18,7 @@
 }
 * {
     color:rgb(26, 114, 208)
-    padding:left;
- }
+  }
 h3{
     margin-top: 120%;
     margin: auto;
