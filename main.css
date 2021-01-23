@@ -1,6 +1,7 @@
 /*this is a comment*/
 #header {
     color:aqua;
+ css-box-model
     background-color: blueviolet;
     border-style: dotted;
     border-color: chartreuse;
@@ -27,3 +28,5 @@ h3{
     width: 66px;
     color:hsl(0,100%,50%)
 }
+
+ 
