@@ -1,6 +1,12 @@
 /*this is a comment*/
 #header {
     color:aqua;
+    background-color: blueviolet;
+    border-style: dotted;
+    border-color: chartreuse;
+    border-width: 10ex;
+    border-radius: 70%;
+
 }
 .about h1{
     color:rgb(10, 22, 9);
