@@ -16,10 +16,10 @@
 
     color:rgb(10, 22, 9);
     display: inline;
-    po
+    
 }
 * {
-    color:rgb(26, 114, 208)
+    color:rgb(26, 114, 208);
   }
 h3{
     margin-top: 120%;
@@ -32,7 +32,17 @@ h3{
     position:relative;
 }
 
- #nav {
+ #nav:hover {
      color:red;
      position:sticky;
  }
+a:active{
+    background-color: yellow;
+
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+      max-width: 50em;
+    }
+  }
