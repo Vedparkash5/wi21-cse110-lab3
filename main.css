@@ -11,11 +11,13 @@
     text-decoration: darkblue;
     text-align: center;
     padding:55mm;
-
+ 
 }
 .about h1{
 
     color:rgb(10, 22, 9);
+    display: inline;
+
 }
 * {
     color:rgb(26, 114, 208)
@@ -26,7 +28,8 @@ h3{
     padding-top: 3 fr;
     height:55em;
     width: 66px;
-    color:hsl(0,100%,50%)
+    color:hsl(0,100%,50%);
+    display: none ;
 }
 
  
