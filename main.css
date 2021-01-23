@@ -16,7 +16,7 @@
 
     color:rgb(10, 22, 9);
     display: inline;
-
+    po
 }
 * {
     color:rgb(26, 114, 208)
@@ -29,8 +29,10 @@ h3{
     width: 66px;
     color:hsl(0,100%,50%);
     display: none ;
+    position:relative;
 }
 
  #nav {
      color:red;
+     position:sticky;
  }
