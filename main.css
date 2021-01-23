@@ -2,8 +2,12 @@
 #header {
     color:aqua;
 }
-/*this is another thingy*/
-/*this is anjvnwekfv
-wefvjwe fv
-wefvwefv
-evr*/
+.about {
+    color:rgb(10, 22, 9);
+}
+* {
+    color:rgb(26, 114, 208)
+}
+h1{
+    color:hsl(0,100%,50%)
+}
